@@ -1,0 +1,6 @@
+/cuda
+*.xz
+*.zip
+/openwebtext
+*.txt
+*.pkl
