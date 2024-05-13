@@ -1,5 +1,5 @@
 # My GPT Learning
 
 Dataset Source:
-openwebtext
-wizard_of_ox
+- openwebtext
+- wizard_of_ox
